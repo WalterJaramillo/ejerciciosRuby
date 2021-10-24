@@ -1,0 +1,1 @@
+a = User.find(Answer.first.owner_id)
